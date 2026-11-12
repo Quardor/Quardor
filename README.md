@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi%2C%20there!%20I'm%20Quardor&fontSize=52&fontColor=ffffff&animation=fadeIn&descAlignY=72&descSize=22" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BD%D0%B0+Python;Python+%C2%B7+NumPy+%C2%B7+SymPy+%C2%B7+Matplotlib;%D0%9E%D1%81%D0%B2%D0%B0%D0%B8%D0%B2%D0%B0%D1%8E+C%2B%2B+%D0%B8+Java" alt="typing" />
-</div>
-
 ## Обо мне
 
 - 🎓 Изучаю программирование и численные методы
