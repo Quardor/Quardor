@@ -7,7 +7,7 @@
 - 🎓 Second-year student
 - ☕ Java Backend Developer
 
-## Технологии
+## Stack:
 
 <div align="center">
 
